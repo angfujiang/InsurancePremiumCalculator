@@ -7,7 +7,7 @@
         <string name="smoker">Smoker?</string>
         <string name="calculate">Calculate</string>
         <string name="reset">Reset</string>
-        <string name="insurance_premium">Insurance Premium :</string>
+        <string name="insurance_premium">Insurance Premium:</string>
         <string name="yes">Yes</string>
     <string name="total_premium">Total Premium:</string>
     <string name="insurance_premium_calculator">Insurance Premium Calculator</string>
